@@ -475,13 +475,13 @@ audio{
 
 @media(max-width:550px){
     .box1 .span4 p{
-        top: 13%;
-        right: 9%;
+        top: 15%;
+        right: 12%;
         font-size: 3vw;
     }
     .box1 .span2 p{
         top: 13%;
-        right: 67%;
+        right: 68%;
         font-size: 3vw;
     }
     .box1 .span3 p{
@@ -491,7 +491,7 @@ audio{
     }
     .box1 .span5 p{
         top: 35%;
-        right: -6%;
+        right: -4%;
         font-size: 3vw;
     }
     .box2 .span1 p{
@@ -508,6 +508,11 @@ audio{
         top: 35%;
         right: -5%;
         font-size: 3vw;
+    }
+    .box2 .span4 h5 {
+        font-size: 4vw;
+        top: 13%;
+        right: 11%;
     }
 
 
